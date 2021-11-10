@@ -2,8 +2,6 @@
 #   Mevea client in Python
 #   Connects REQ socket to tcp://localhost:5555
 #
-#   Asko Rouvinen, Mevea Ltd, 2019
-#
 
 import zmq
 import numpy as np
