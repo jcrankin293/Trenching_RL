@@ -3,7 +3,6 @@ import numpy as np
 import torch as T
 import math
 
-#This is the home of the reward function. Apologies for the poor coding.
 # Some parts are also redundant. It is only reward that matters here.
 
 use_cuda = T.cuda.is_available()
