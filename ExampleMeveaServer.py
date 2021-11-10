@@ -2,7 +2,6 @@
 #   Mevea server in Python
 #   Binds REP socket to tcp://*:5555
 #
-#   Jake Attempt
 
 import zmq
 import numpy as np
